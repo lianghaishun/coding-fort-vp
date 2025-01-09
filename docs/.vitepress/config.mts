@@ -23,7 +23,7 @@ export default defineConfig({
   head: [["link", { rel: "icon", href: "/assets/images/favicon.ico" }]],
   title: "CODING FORT | 前端知识框架",
   description: "前端知识框架",
-  base: "/coding-fort-vp",
+  base: "/coding-fort-vp/",
   themeConfig: {
     outlineTitle: "本页目录", // 设置页面大纲标题为中文
     // https://vitepress.dev/reference/default-theme-config
