@@ -79,7 +79,6 @@ brew install node
 
 ### 1.6.使用 NVM 下载和管理 Node.js 版本
 
-[[参考：NVM 介绍]](./Nvm.md)
 
 ### 1.7.验证安装
 

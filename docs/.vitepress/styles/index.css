@@ -105,7 +105,6 @@ bwe::before,
 bww::before,
 bwp::before {
   content: "注意：";
-  // display: block;
   font-weight: bold;
 }
 
@@ -136,15 +135,6 @@ bwp::before,
 bwpr::before {
   content: "记录：";
 }
-
-// bwe::before, bwer::before {
-//     background-color: --errColor;
-//     border-radius: 3px;
-//     color: #fff;
-//     content: '注意';
-//     margin-right: 8px;
-//     padding: 3px 8px;
-// }
 
 rt {
   color: --sucColor;

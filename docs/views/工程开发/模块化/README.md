@@ -53,7 +53,7 @@
 
 ## 2.NodeJS 环境
 
-[NodeJS 介绍](/views/架构基础/Node)
+[NodeJS 介绍]
 
 ## 前端模块化标准
 

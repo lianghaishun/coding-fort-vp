@@ -6,6 +6,7 @@
 # 构建输出目录
 /dist/
 /.vitepress/dist/
+docs/.vitepress/dist/
 
 # VitePress 缓存
 .vitepress/.temp/

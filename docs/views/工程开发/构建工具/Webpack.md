@@ -573,8 +573,6 @@ module.exports = {
 };
 ```
 
-[返回]()
-
 ### 7.2.配置文件（webpack.config.js）：服务和热更新 
 
 （1）安装**webpack-dev-server**

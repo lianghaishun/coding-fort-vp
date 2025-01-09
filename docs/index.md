@@ -6,15 +6,9 @@ hero:
   text: "前端知识框架"
   tagline: 构建坚实的前端编程基础，探索最新的技术趋势
   image:
-    src: /assets/images/index.png
+    src: ./assets/images/index.png
     alt: CODING FORT Logo
   actions:
-    - theme: brand
-      text: 快速开始
-      link: /zh-CN/guide/getting-started
-    - theme: alt
-      text: 查看文章
-      link: /zh-CN/articles
 
 features:
   - title: 系统化学习路径
@@ -31,16 +25,7 @@ features:
 
 ## 热门文章
 
-- **[CSS Grid 和 Flexbox 的区别与使用](/zh-CN/articles/css-grid-vs-flexbox)**
-- **[掌握 ES6+ 新特性](/zh-CN/articles/es6-features)**
-- **[React Hooks 深入理解](/zh-CN/articles/react-hooks-deep-dive)**
-- **[Vue 3 vs React 18 性能对比](/zh-CN/articles/vue3-vs-react18-performance)**
-
 ## 核心主题
-
-- **[Web 开发基础](/zh-CN/topics/web-development-basics)**
-- **[响应式设计最佳实践](/zh-CN/topics/responsive-design-best-practices)**
-- **[性能优化技巧](/zh-CN/topics/performance-optimization-tips)**
 
 ## 加入我们的社区
 
