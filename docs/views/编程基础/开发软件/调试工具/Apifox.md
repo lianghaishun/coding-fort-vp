@@ -6,13 +6,9 @@
 
 ## API 文档
 
-![Apifox_01.png](../../../.vuepress/assets/images/Apifox_01.png "Apifox")
-
 <p style="text-align: center;">Apifox_01.png</p>
 
 ## API 调试
-
-![Apifox_02.png](../../../.vuepress/assets/images/Apifox_02.png "Apifox")
 
 <p style="text-align: center;">Apifox_02.png</p>
 
@@ -34,8 +30,6 @@
   > // 设置变量到环境变量中
   > let name = pm.environment.set("name", "zhangsan");
   > ```
-
-![Apifox_03.png](../../../.vuepress/assets/images/Apifox_03.png "Apifox")
 
 <p style="text-align: center;">Apifox_03.png</p>
 
@@ -75,13 +69,9 @@
 
 ## API MOCK
 
-![Apifox_04.png](../../../.vuepress/assets/images/Apifox_04.png "Apifox")
-
 <p style="text-align: center;">Apifox_04.png</p>
 
 - 若接口已配置好返回响应的对象类型及可取值，则可以通过“自动生成”按钮，自动生成模拟数据。
-
-![Apifox_05.png](../../../.vuepress/assets/images/Apifox_05.png "Apifox")
 
 <p style="text-align: center;">Apifox_05.png</p>
 
